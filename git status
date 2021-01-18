@@ -1,0 +1,29 @@
+[33mcommit 2abb775ea11d3dda97d23e06327cbd1b7c8d82cb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jenelle Anitha Roberts <67334243+Jenelle-A@users.noreply.github.com>
+Date:   Mon Jan 18 10:25:54 2021 -0400
+
+    added information in footer in homepage, added header, footer and main to about page
+
+[33mcommit 6fb7408c905ba870e251ebea088f21a945816f75[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jenelle Anitha Roberts <67334243+Jenelle-A@users.noreply.github.com>
+Date:   Fri Jan 8 10:14:33 2021 -0400
+
+    finish coding homepage html
+
+[33mcommit e9fe197ec9ec20bf458740d2a0630df3cd0db43f[m
+Author: Jenelle Anitha Roberts <67334243+Jenelle-A@users.noreply.github.com>
+Date:   Fri Jan 8 09:10:04 2021 -0400
+
+    added text to html head, main, aside, and footer tags
+
+[33mcommit 151b8e9d7e6e19a9765a303d22184891ca289aa9[m
+Author: Jenelle Anitha Roberts <67334243+Jenelle-A@users.noreply.github.com>
+Date:   Thu Jan 7 10:13:03 2021 -0400
+
+    added index.html file to about and faq and upadated file paths
+
+[33mcommit 2185ce4d06d252b6ff31f374e1d41965224b0656[m
+Author: Jenelle Anitha Roberts <67334243+Jenelle-A@users.noreply.github.com>
+Date:   Thu Jan 7 09:33:10 2021 -0400
+
+    initial commit
