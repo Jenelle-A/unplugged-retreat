@@ -87,6 +87,97 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /*-----Base Header-Footer Styles-----*/
+  
+header,
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+  /* Header Styles*/
+
+header{}
+
+header .content-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.header-divider{
+
+}
+  
+header nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+header nav ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+  /*-----Mobile Styles - Homepage-----*/
+
+.hero-area{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+aside{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.features{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.reviews{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+  /* Footer Styles*/
+
+footer .content-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+footer .social-icons{
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+footer .social-icons p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer .copyright{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
